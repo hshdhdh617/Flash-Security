@@ -61,7 +61,7 @@ if (cooldown.has(message.author.id)) {
       .setDescription(`
 
 **Ganeral**
-\user, server, bot
+\user, server, bot\
 
 **Security Number**
 \`s!anti kick\` : **Number**
