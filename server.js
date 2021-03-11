@@ -39,7 +39,7 @@ client.login("ODEzMzY3Njc0OTkzNTA4Mzgy.YDORrQ.uzaVWN3oaA5ZnX7GXfDap-3ya40");
   console.log(`${client.user.tag}`);
   console.log(`Guilds: ${client.guilds.size}`);
   console.log(`Users: ${client.users.size}`);
-  client.user.setActivity(`${prefix}help @FlashSecurity`, { Type: "Playing" });
+  client.user.setActivity(`${prefix}help | @FlashSecurity`, { Type: "Playing" });
 });
 
 //////
