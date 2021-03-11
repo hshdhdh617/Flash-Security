@@ -60,8 +60,9 @@ if (cooldown.has(message.author.id)) {
       .setAuthor(message.author.username, message.author.AvatarURL)
       .setDescription(`
 
-**Ganeral**
-\user, server, bot\
+**Info Commands**
+\`server, \`user, \`bot \`
+
 
 **Security Number**
 \`s!anti kick\` : **Number**
