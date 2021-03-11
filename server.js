@@ -60,7 +60,7 @@ if (cooldown.has(message.author.id)) {
       .setAuthor(message.author.username, message.author.AvatarURL)
       .setDescription(`
 
-**Info Commands**
+**Info Commands **
 \`s!user\`
 \`s!server\`
 \`s!bot\`
@@ -87,7 +87,7 @@ if (cooldown.has(message.author.id)) {
 \`s!unban\` : **Id** / **all**
 
 
-[ **Invite Bot** ](https://discord.com/api/oauth2/authorize?client_id=811722944912162836&permissions=8&scope=bot) - [ **Support Server** ](https://discord.gg/yMf6kWVZKB)
+[ **Invite Bot** ](https://discord.com/api/oauth2/authorize?client_id=813367674993508382&permissions=8&scope=bot) - [ **Support Server** ](https://discord.gg/Av2Kn8YzDY)
 
 `);
 
