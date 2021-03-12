@@ -31,7 +31,7 @@ const dateFormat = require("dateformat");
 var table = require("table").table;
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
-const prefix = "s!";
+const prefix = "f.";
 const cooldown = new Set()
 const cdtime =5;
 client.login("ODEzMzY3Njc0OTkzNTA4Mzgy.YDORrQ.uzaVWN3oaA5ZnX7GXfDap-3ya40");
@@ -61,31 +61,31 @@ if (cooldown.has(message.author.id)) {
       .setDescription(`
 
 **Info Commands**
-\`q!user\`
-\`q!server\`
-\`q!bot\`
+\`f.user\`
+\`f.server\`
+\`f.bot\`
 
 
 **Security Number**
-\`s!anti kick\` : **Number**
-\`s!anti ban\` : **Number**
-\`s!anti roleD\` : **Number**
-\`s!anti roleC\` : **Number**
-\`s!anti channelD\` : **Number**
-\`s!anti channelC\` : **Number**
-\`s!anti time\` : **Number**
-\`s!settings\`
+\`f.anti kick\` : **Number**
+\`f.anti ban\` : **Number**
+\`f.anti roleD\` : **Number**
+\`f.anti roleC\` : **Number**
+\`f.anti channelD\` : **Number**
+\`f.anti channelC\` : **Number**
+\`f.anti time\` : **Number**
+\`f.settings\`
 
 **Srcurity On/Off**
-\`s!anti bot\` : **on-off**
-\`s!anti problem\` : **on-off**
+\`f.anti bot\` : **on-off**
+\`f.anti problem\` : **on-off**
 
 **Moderation Commands**
-\`s!lock\`
-\`s!unlock\`
-\`s!ban\` : @**User**
-\`s!kick\` : @**User**
-\`s!unban\` : **Id** / **all**
+\`f.lock\`
+\`f.unlock\`
+\`f.ban\` : @**User**
+\`f.kick\` : @**User**
+\`f.unban\` : **Id** / **all**
 
 
 [ Invite Bot ](https://discord.com/api/oauth2/authorize?client_id=813367674993508382&permissions=8&scope=bot) - [ Support Server ](https://discord.gg/Av2Kn8YzDY)
