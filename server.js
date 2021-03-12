@@ -61,7 +61,7 @@ if (cooldown.has(message.author.id)) {
       .setDescription(`
 
 **Info Commands**
-\`f.user\` \`f.server\` \`f.bot\`
+\`f.user\`, \`f.server\`, \`f.bot\`
 
 
 **Security Number**
