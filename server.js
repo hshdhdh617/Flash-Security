@@ -68,15 +68,10 @@ if (cooldown.has(message.author.id)) {
 \`anti kick\`, \`anti ban\`, \`anti roleD\`, \`anti roleC\`, \`anti channelD\`, \`anti channelC\`, \`anti time\`,\`settings\`
 
 **Srcurity On/Off**
-\`f.anti bot\` : **on-off**
-\`f.anti problem\` : **on-off**
+\`anti bot\`, \`anti problem\` 
 
 **Moderation Commands**
-\`f.lock\`
-\`f.unlock\`
-\`f.ban\` : @**User**
-\`f.kick\` : @**User**
-\`f.unban\` : **Id** / **all**
+\`lock\`, \`unlock\`, \`ban\`, \`kick\`, \`unban\`
 
 
 [ Invite Bot ](https://discord.com/api/oauth2/authorize?client_id=813367674993508382&permissions=8&scope=bot) - [ Support Server ](https://discord.gg/Av2Kn8YzDY)
