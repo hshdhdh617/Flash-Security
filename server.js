@@ -61,18 +61,11 @@ if (cooldown.has(message.author.id)) {
       .setDescription(`
 
 **Info Commands**
-\`f.user\`, \`f.server\`, \`f.bot\`
+\`user\`, \`server\`, \`bot\`
 
 
 **Security Number**
-\`f.anti kick\` : **Number**
-\`f.anti ban\` : **Number**
-\`f.anti roleD\` : **Number**
-\`f.anti roleC\` : **Number**
-\`f.anti channelD\` : **Number**
-\`f.anti channelC\` : **Number**
-\`f.anti time\` : **Number**
-\`f.settings\`
+\`anti kick\`, \`anti ban\`, \`anti roleD\`, \`anti roleC\`, \`anti channelD\`, \`anti channelC\`, \`anti time\`,\`settings\`
 
 **Srcurity On/Off**
 \`f.anti bot\` : **on-off**
