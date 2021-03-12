@@ -73,7 +73,7 @@ if (cooldown.has(message.author.id)) {
 **Moderation Commands**
 \`lock\`, \`unlock\`, \`ban\`, \`kick\`, \`unban\`
 
-
+**Links**
 [ Invite Bot ](https://discord.com/api/oauth2/authorize?client_id=813367674993508382&permissions=8&scope=bot) - [ Support Server ](https://discord.gg/Av2Kn8YzDY)
 
 `);
